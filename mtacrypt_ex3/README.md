@@ -10,7 +10,7 @@ Authors:
 1. cd /home/omer/mtacrypt_ex3 (your path!!!!)
 2. sudo make clean (just for case)
 3. sudo make
-4. sudo ./launcher.sh (number od decrypters)
+4. sudo ./launcher.sh (number of decrypters)
 5. now you can check the runs... (cat /tmp/mtacrypt_logs/mtacrypt.log)
 6. if you finish: sudo make clean
 7. enjoy gabi :)
