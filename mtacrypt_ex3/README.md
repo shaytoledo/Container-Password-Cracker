@@ -6,6 +6,8 @@ Authors:
 - Shay Toledo – 314654484
 
 ** you may need to change some of the permissions (chmod +x ... )
+** in mtacrypt.conf you have the lenght of the password
+
 ## Build and Run
 1. cd /home/omer/mtacrypt_ex3 (your path!!!!)
 2. sudo make clean (just for case)
